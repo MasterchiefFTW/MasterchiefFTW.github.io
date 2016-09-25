@@ -1,0 +1,13 @@
+Package: com.myrepo.suicide
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MasterchiefFTW <russell.freeze@gmail.com>
+Filename: /SuicideSqquad.deb
+Size: 14846
+MD5sum: 648768dc9b4f763fb2ddafd3e72af906
+SHA1: 25042fdf7aa0ae7193bd4178bb0d896f6e2b9528
+SHA256: 60955bd02ab2595a02ec6f8f7644bb444b78a0b2e4dc45bbc2c647663317f295
+Section: Addons
+Description: Sweet logo from the movie Suicide Squad.
+Author: MasterchiefFTW <russell.freeze@gmail>
+Name: SuicideSquad ZeppelinLogo
